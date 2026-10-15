@@ -1,0 +1,6 @@
+# Runtime artifacts of the headless chain — never commit
+*.crx
+ext/
+profile/
+*.log
+watch.state
